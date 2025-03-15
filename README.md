@@ -1,4 +1,17 @@
-# NLP-Sentiment and Recommendation System (Final Project for EECS-731 Data Science)
+
+Name: Hetarth Panchal
+
+Company: CODTECH IT SOLUTIONS
+
+ID: CT12WOKW
+
+Domain: Machine Learning
+
+Duration: January to April 2025
+
+Mentor: Neela Santhosh
+
+Project Title: NLP-Sentiment and Recommendation System 
 
 
 Project Organization
